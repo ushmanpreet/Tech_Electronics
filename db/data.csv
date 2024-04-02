@@ -1,0 +1,100 @@
+product_name,description,price,stock_quantity
+Smartphone,High-end smartphone with advanced features,799.99,10
+Laptop,Powerful laptop for work and entertainment,1299.99,5
+Smart TV,4K Smart TV with HDR support,899.99,8
+Headphones,Wireless noise-cancelling headphones,299.99,15
+Tablet,Lightweight tablet for reading and browsing,399.99,20
+Digital Camera,High-resolution digital camera with lens kit,599.99,7
+Bluetooth Speaker,Portable Bluetooth speaker with deep bass,99.99,25
+Gaming Console,Next-gen gaming console for immersive gaming,499.99,3
+Fitness Tracker,Smart fitness tracker with heart rate monitor,149.99,12
+E-reader,Advanced E-reader with adjustable light,199.99,15
+T-shirt,Comfortable cotton T-shirt for everyday wear,19.99,30
+Jeans,Classic denim jeans for casual style,39.99,25
+Dress,Elegant dress for special occasions,59.99,20
+Sneakers,Stylish sneakers for urban adventures,79.99,40
+Jacket,Waterproof jacket for outdoor activities,99.99,10
+Sweater,Cozy sweater for chilly days,29.99,35
+Scarf,Soft scarf to keep you warm,14.99,50
+Hoodie,Comfy hoodie for relaxed style,39.99,20
+Shorts,Lightweight shorts for summer,24.99,50
+Leggings,Stretchy leggings for active wear,29.99,40
+Novel,Fiction novel by a bestselling author,12.99,25
+Cookbook,Collection of delicious recipes,24.99,30
+Textbook,Essential textbook for a university course,89.99,20
+Poetry Book,Collection of inspiring poems,9.99,35
+Art Book,Beautifully illustrated art book,34.99,15
+Home Decor Book,Book on home decor and interior design,19.99,20
+History Book,In-depth book on a historical event,29.99,18
+Travel Guide,Comprehensive travel guide for a popular destination,17.99,45
+Self-Help Book,Book on personal development and growth,14.99,20
+Cushion,Soft cushion for your living room,19.99,50
+Wall Art,Beautiful wall art to decorate your home,49.99,30
+Candle,Scented candle to create a cozy atmosphere,9.99,100
+Vase,Elegant vase for displaying flowers,29.99,40
+Clock,Stylish clock for your wall,39.99,25
+Mirror,Decorative mirror for your hallway,79.99,15
+Photo Frame,Classic photo frame for your memories,14.99,50
+Rug,Soft rug to add warmth to your room,69.99,20
+Throw Blanket,Cozy throw blanket for chilly nights,34.99,30
+Desk Lamp,Adjustable desk lamp for studying or working,24.99,50
+Plant,Indoor plant to add a touch of green to your space,14.99,40
+Curtains,Light-filtering curtains for privacy,39.99,25
+Throw Pillow,Decorative throw pillow for your sofa,12.99,30
+Bookshelf,Sturdy bookshelf for organizing your books,79.99,20
+Desk Organizer,Organizer for pens pencils and office supplies,9.99,35
+Wall Clock,Modern wall clock for your kitchen,19.99,25
+Artificial Plant,Low-maintenance artificial plant for your home,29.99,45
+Coasters,Set of coasters to protect your furniture,9.99,50
+Wall Mirror,Full-length wall mirror for your bedroom,89.99,15
+Coffee Table,Stylish coffee table for your living room,129.99,25
+Side Table,Small side table for your couch or bed,49.99,40
+Candle Holder,Elegant candle holder for your dining table,14.99,50
+Wall Shelf,Floating wall shelf for displaying photos or plants,19.99,30
+Floor Lamp,Contemporary floor lamp for your reading nook,59.99,20
+Dining Chair,Modern dining chair for your dining table,69.99,35
+Dining Table,Extendable dining table for family gatherings,299.99,15
+Kitchen Utensil Set,Set of essential kitchen utensils,29.99,40
+Cutting Board,Durable cutting board for meal prep,19.99,50
+Mixing Bowl Set,Set of mixing bowls for baking,24.99,45
+Cookware Set,Non-stick cookware set for your kitchen,79.99,25
+Knife Set,High-quality knife set for cooking,49.99,30
+Bath Towel Set,Set of plush bath towels for your bathroom,29.99,40
+Shower Curtain,Waterproof shower curtain for your bathroom,14.99,50
+Bathroom Rug,Soft bathroom rug for stepping out of the shower,19.99,35
+Soap Dispenser,Stylish soap dispenser for your bathroom,9.99,40
+Toothbrush Holder,Compact toothbrush holder for your bathroom,6.99,50
+Laundry Hamper,Portable laundry hamper for your laundry room,19.99,25
+Ironing Board,Sturdy ironing board for ironing clothes,34.99,20
+Clothes Hanger Set,Set of durable clothes hangers,12.99,30
+Storage Basket,Multi-purpose storage basket for organizing,9.99,50
+Storage Ottoman,Upholstered storage ottoman for your living room,39.99,25
+Throw Blanket,Soft throw blanket for cozying up on the couch,24.99,30
+Decorative Tray,Decorative tray for serving or organizing,19.99,40
+Wall Art,Abstract wall art for adding a pop of color,49.99,20
+Floor Rug,Soft floor rug for your bedroom or living room,69.99,15
+Table Lamp,Modern table lamp for your bedside table,29.99,25
+Bar Stool,Modern bar stool for your kitchen counter,79.99,25
+Jewelry Box,Elegant jewelry box for storing your accessories,14.99,35
+Picture Frame,Classic picture frame for displaying photos,9.99,40
+Sofa,Comfortable sofa for your living room,499.99,10
+Accent Chair,Stylish accent chair for your home,199.99,30
+Bean Bag Chair,Cozy bean bag chair for lounging,49.99,40
+TV Stand,Contemporary TV stand for your entertainment center,149.99,20
+Bar Stool,Modern bar stool for your kitchen counter,79.99,25
+Wall Decor,Decorative wall decor for your home,39.99,50
+Faux Fur Throw,Soft faux fur throw for chilly nights,34.99,35
+Floor Mirror,Full-length floor mirror for your bedroom,99.99,15
+Bedding Set,Soft bedding set for your bedroom,49.99,40
+Vase,Decorative vase for your flowers,19.99,45
+Wall Sconce,Elegant wall sconce for your hallway,29.99,30
+Bookends,Sturdy bookends for organizing your books,14.99,25
+Accent Mirror,Small accent mirror for your entryway,24.99,30
+Entryway Bench,Compact entryway bench for putting on shoes,39.99,20
+Floor Vase,Tall floor vase for decorating your living room,49.99,35
+Desk Chair,Comfortable desk chair for your home office,79.99,25
+Wall Hooks,Set of wall hooks for hanging coats or keys,9.99,40
+Bar Cart,Stylish bar cart for serving drinks,89.99,15
+Shelving Unit,Adjustable shelving unit for storage,59.99,20
+Wine Rack,Compact wine rack for your favorite bottles,24.99,30
+Bar Stool,Modern bar stool for your kitchen counter,79.99,25

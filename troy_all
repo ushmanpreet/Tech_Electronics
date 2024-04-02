@@ -1,0 +1,76 @@
+=> 
+[[32m#<Page:0x00007f557820daf8[0m
+  id: [34m[1m1[0m,
+  title: [31m[1m"[0m[31mContact Us[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mPlease contact us at shoes@solesprint.com for any inquiries.[0m[31m[1m"[0m,
+  page_type: [36m[1mnil[0m,
+  created_at: Sun, 24 Mar 2024 21:52:22.157804000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 21:52:22.157804000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bd858[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mAbout Us[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mWith a focus on creativity, collaboration, and customer-centricity, we strive to exceed expectations and create meaningful impact. Our unwavering dedication to quality and integrity sets us apart, earning the trust of clients and partners worldwide.[0m[31m[1m"[0m,
+  page_type: [36m[1mnil[0m,
+  created_at: Sun, 24 Mar 2024 21:52:22.402654000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 21:52:22.402654000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bd718[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mContact Us[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mPlease contact us at shoes@solesprint.com for any inquiries.[0m[31m[1m"[0m,
+  page_type: [36m[1mnil[0m,
+  created_at: Sun, 24 Mar 2024 22:01:20.989261000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:01:20.989261000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bd5d8[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mAbout Us[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mWith a focus on creativity, collaboration, and customer-centricity, we strive to exceed expectations and create meaningful impact. Our unwavering dedication to quality and integrity sets us apart, earning the trust of clients and partners worldwide.[0m[31m[1m"[0m,
+  page_type: [36m[1mnil[0m,
+  created_at: Sun, 24 Mar 2024 22:01:41.489173000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:01:41.489173000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bd498[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mContact Us[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mPlease contact us at shoes@solesprint.com for any inquiries.[0m[31m[1m"[0m,
+  page_type: [36m[1mnil[0m,
+  created_at: Sun, 24 Mar 2024 22:05:02.274351000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:05:02.274351000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bd358[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mAbout Us[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mWith a focus on creativity, collaboration, and customer-centricity, we strive to exceed expectations and create meaningful impact. Our unwavering dedication to quality and integrity sets us apart, earning the trust of clients and partners worldwide.[0m[31m[1m"[0m,
+  page_type: [36m[1mnil[0m,
+  created_at: Sun, 24 Mar 2024 22:05:08.943542000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:05:08.943542000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bd218[0m
+  id: [34m[1m7[0m,
+  title: [31m[1m"[0m[31mContact Us[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mPlease contact us at shoes@solesprint.com for any inquiries.[0m[31m[1m"[0m,
+  page_type: [31m[1m"[0m[31mcontact[0m[31m[1m"[0m,
+  created_at: Sun, 24 Mar 2024 22:06:23.335867000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:06:23.335867000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bd0d8[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mAbout Us[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mWith a focus on creativity, collaboration, and customer-centricity, we strive to exceed expectations and create meaningful impact. Our unwavering dedication to quality and integrity sets us apart, earning the trust of clients and partners worldwide.[0m[31m[1m"[0m,
+  page_type: [31m[1m"[0m[31mabout[0m[31m[1m"[0m,
+  created_at: Sun, 24 Mar 2024 22:06:23.492386000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:06:23.492386000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bcf98[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mContact Us[0m[31m[1m"[0m,
+  content: [31m[1m"[0m[31mPlease contact us at shoes@solesprint.com for any inquiries.[0m[31m[1m"[0m,
+  page_type: [31m[1m"[0m[31mcontact[0m[31m[1m"[0m,
+  created_at: Sun, 24 Mar 2024 22:36:56.342099000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:36:56.342099000 UTC +00:00[32m>[0m,
+ [32m#<Page:0x00007f55783bce58[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mAbout Us[0m[31m[1m"[0m,
+  content:
+   [31m[1m"[0m[31mWith a focus on creativity, collaboration, and customer-centricity, we strive to exceed expectations and create meaningful impact. Our unwavering dedication to quality and integrity sets us apart, earning the trust of clients and partners worldwide.[0m[31m[1m"[0m,
+  page_type: [31m[1m"[0m[31mabout[0m[31m[1m"[0m,
+  created_at: Sun, 24 Mar 2024 22:36:56.539810000 UTC +00:00,
+  updated_at: Sun, 24 Mar 2024 22:36:56.539810000 UTC +00:00[32m>[0m]

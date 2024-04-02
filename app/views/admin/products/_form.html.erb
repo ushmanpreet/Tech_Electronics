@@ -1,0 +1,61 @@
+<%= form_with(model: @product, url: @product.persisted? ? admin_product_path(@product) : admin_products_path, method: @product.persisted? ? :patch : :post) do |form| %>
+  <% if @product.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@product.errors.count, "error") %> prohibited this product from being saved:</h2>
+
+      <ul>
+        <% @product.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :product_name %>
+    <%= form.text_field :product_name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :description %>
+    <%= form.text_area :description %>
+  </div>
+
+  <div class="field">
+    <%= form.label :price %>
+    <%= form.text_field :price %>
+  </div>
+
+  <div class="field">
+    <%= form.label :stock_quantity %>
+    <%= form.number_field :stock_quantity %>
+  </div>
+
+  <div class="field">
+    <%= form.label :category_name %>
+    <%= form.select :category_name, options_for_select(Category.all.map { |category| [category.category_name, category.category_name] }) %>
+  </div>
+
+  <div class="field">
+    <%= form.label :on_sale %>
+    <%= form.check_box :on_sale, checked: @product.on_sale %>
+  </div>
+
+  <% if @product.image.attached? %>
+    <div class="field">
+      <p>Current Image:</p>
+      <%= image_tag @product.image, class: "current-image" %>
+      <%= form.label :delete_image, "Delete Image" %>
+      <%= form.check_box :delete_image %>
+    </div>
+  <% else %>
+    <div class="field">
+      <%= form.label :image %>
+      <%= form.file_field :image %>
+    </div>
+  <% end %>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

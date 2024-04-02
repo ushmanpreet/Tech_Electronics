@@ -1,0 +1,10 @@
+<h1><%= @product.product_name %></h1>
+<p><%= @product.description %></p>
+<p>Price: <%= number_to_currency(@product.price) %></p>
+<p>Stock Quantity: <%= @product.stock_quantity %></p>
+<p>Category: <%= @product.categories.pluck(:category_name).join(', ') %></p>
+<% if @product.image.present? %>
+  <%= image_tag @product.image %>
+<% else %>
+  <p>*No Image Available*</p>
+<% end %>

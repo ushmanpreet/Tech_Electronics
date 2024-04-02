@@ -1,0 +1,58 @@
+<h1>Tech Hive</h1>
+<%= link_to "Admin", admin_login_path %>
+
+<nav>
+  <ul>
+    <% Category.all.each do |category| %>
+      <li><%= link_to category.category_name, category_path(category) %></li>
+    <% end %>
+  </ul>
+</nav>
+
+
+<h2>Products</h2>
+
+<%= form_tag(products_path, method: :get) do %>
+  <%= text_field_tag :search, params[:search], placeholder: "Search by keyword" %>
+  <%= select_tag :category_name, options_for_select(Category.all.map{ |c| [c.category_name, c.category_name] }, params[:category_name]), prompt: "Select Category" %>
+  <%= submit_tag "Search" %>
+<% end %>
+
+<%= link_to 'View Cart', cart_path %>
+
+<%= form_tag(products_path, method: :get) do %>
+  <%= label_tag 'on_sale', 'On Sale:' %>
+  <%= check_box_tag 'on_sale', 'true', params[:on_sale] %>
+
+  <%= label_tag 'new', 'New:' %>
+  <%= check_box_tag 'new', 'true', params[:new] %>
+
+  <%= submit_tag 'Filter' %>
+<% end %>
+
+<table>
+  <thead>
+    <tr>
+      <th>Product Name</th>
+      <th>Price</th>
+      <th>Quantity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @products.each do |product| %>
+      <tr>
+        <td><%= link_to product.product_name, product_path(product) %></td>
+        <td><%= product.price %></td>
+        <td>
+          <%= form_tag(add_to_cart_products_path, method: :post) do %>
+            <%= hidden_field_tag :product_id, product.id %>
+            <%= number_field_tag :quantity, 1, min: 1 %>
+            <%= submit_tag "Add to Cart" %>
+          <% end %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<%= paginate @products %>

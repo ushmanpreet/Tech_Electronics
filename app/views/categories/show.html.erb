@@ -1,0 +1,18 @@
+<h1><%= @category.category_name %> Products</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Product Name</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <% @products.each do |product| %>
+      <tr>
+        <td><%= link_to product.product_name, product_path(product) %></td>
+        <td><%= product.price %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
